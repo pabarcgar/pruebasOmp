@@ -1,0 +1,4 @@
+pruebasOmp
+==========
+
+Prueba OMP
